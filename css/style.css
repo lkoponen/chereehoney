@@ -1,12 +1,20 @@
 body {
-	background-color: gray;
+	background-color: #FEFEFE;
+	color: #666666;
+}
+hr {
+	background-color: #FBD60F;
+	height: 5px;
+}
+a {
+	color: #11CBF0;
 }
 .featured-img {
 	margin: auto;
 }
 
 .nav-btn {
-	background-color: white;
+	background-color: #FEFEFE;
 	font-size: large;
-	border-radius: 10px;
+	border: none;
 }
