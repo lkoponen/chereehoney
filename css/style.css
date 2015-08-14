@@ -1,0 +1,12 @@
+body {
+	background-color: gray;
+}
+.featured-img {
+	margin: auto;
+}
+
+.nav-btn {
+	background-color: white;
+	font-size: large;
+	border-radius: 10px;
+}
